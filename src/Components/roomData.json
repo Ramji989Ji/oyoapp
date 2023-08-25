@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "Standard Room",
+      "image": "/assets/room1.jpg"
+    
+    
+    },
+    {
+      "id": 2,
+      "name": "Deluxe Suite",
+      "image": "/assets/room1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Deluxe Suite",
+        "image": "/assets/room1.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Deluxe Suite",
+        "image": "/assets/room1.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Deluxe Suite",
+        "image": "/assets/room1.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Deluxe Suite",
+        "image": "/assets/room1.jpg"
+      },
+      {
+          "id": 7,
+          "name": "Deluxe Suite",
+          "image": "/assets/room1.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Deluxe Suite",
+          "image": "/assets/room1.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Deluxe Suite",
+            "image": "/assets/room1.jpg"
+          },
+          {
+            "id": 10,
+            "name": "Deluxe Suite",
+            "image": "/assets/room1.jpg"
+          },
+          {
+            "id": 11,
+            "name": "Deluxe Suite",
+            "image": "/assets/room1.jpg"
+          },
+          {
+            "id": 12,
+            "name": "Deluxe Suite",
+            "image": "/assets/room1.jpg"
+          }
+  ]
+  
